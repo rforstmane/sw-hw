@@ -65,16 +65,7 @@ body {
     font-size: 25px;
     position: relative;
     align-items: center;
-}
-
-.nav:after {
-    content: "";
-    height: 2px;
-    background: black;
-    width: 100%;
-    display: block;
-    position: absolute;
-    bottom: 0;
+    border-bottom: 1px solid black;
 }
 
 .nav__right {
